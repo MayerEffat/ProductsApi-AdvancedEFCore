@@ -73,4 +73,4 @@ A learning project focused on applying practical EF Core techniques in an ASP.NE
 
 ## Author
 
-Add your name here.
+Mayer Effat.
